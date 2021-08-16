@@ -1,5 +1,7 @@
 ## SimCLR: Self-Supervised Learning approach to learn contrasting representation between images.
 
+![SimCLR](https://1.bp.blogspot.com/--vH4PKpE9Yo/Xo4a2BYervI/AAAAAAAAFpM/vaFDwPXOyAokAC8Xh852DzOgEs22NhbXwCLcBGAsYHQ/s1600/image4.gif)
+
 Why Self-Supervised Learning?
 
 * Existing Deep Learning models requires large amount of annotated data to perform well.
